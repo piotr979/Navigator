@@ -1,0 +1,1 @@
+![Screenshot](doc/sshot.jpg)
