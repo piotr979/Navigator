@@ -2,16 +2,8 @@
 const sidebarChapters = document.getElementById('sidebar-chapters');
 const navigatorContent = document.getElementById('navigator-content');
 const chaptersCollection = document.getElementsByClassName('navigator-chapter');
-console.log(chaptersCollection);
-
 
 for (let chapter of chaptersCollection) {
-
-    /*
-    * creates following structure
-    * <a>1 DIV + 1 DIV</a> (both divs flex)
-    */
-
 
     const anchor = document.createElement('a');
     const label = document.createTextNode(chapter.innerHTML);
@@ -33,14 +25,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
-
- //create Node
-    
-    
- // add Node to navigator
- // 
-
-/* Generate links from chapters */
 
 /* check if screen resizes, than check/uncheck input
 *  if screen size < 80em sidebar is hidden
