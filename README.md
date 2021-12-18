@@ -1,1 +1,1 @@
-![Screenshot](doc/sshot.jpg)
+![alt text](https://github.com/piotr979/Navigator/doc/sshot.jpg)
