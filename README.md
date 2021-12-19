@@ -1,7 +1,7 @@
 #Table of contents navigator
 
 Navigator is kind of table of contents displayed as a sidebar. At the moment waypoints are not implemented as I am looking for a way it can be done. There is one popular plugin available, but it requires jQuery and for a such small project like this one it's a bit overkill. 
-Features:
+Anyway, here you have main features:
 
 - Fully responsive design,
 - Automatically hides/shows when window is resized,
